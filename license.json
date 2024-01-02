@@ -4,7 +4,7 @@
     "status": "success",
     "response": "ok",
     "data": {
-      "license_type": "Z~;1!PR1f~ycKd^/F£@]n32;S1P]f#",
+      "license_type": "K",
       "expiration_date": "2025-12-31",
       "features": ["feature1", "feature2", "feature3"]
     }

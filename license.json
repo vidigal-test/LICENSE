@@ -8,5 +8,15 @@
       "expiration_date": "2025-12-31",
       "features": ["feature1", "feature2", "feature3"]
     }
+  },
+  {
+    "name": "Project-Habbovip",
+    "status": "success",
+    "response": "ok",
+    "data": {
+      "license_type": "!Q78Qk]iu5/z~|I88D~h0XG!,+Mn}P",
+      "expiration_date": "2025-12-31",
+      "features": ["feature1", "feature2", "feature3"]
+    }
   }
 ]

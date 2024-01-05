@@ -5,8 +5,8 @@
     "response": "ok",
     "data": {
       "license_type": "Z~;1!PR1f~ycKd^/F£@]n32;S1P]f#",
-      "current_date": "2024-04-05",
-      "expiration_date": "2023-02-01",
+      "current_date": "2024-01-05",
+      "expiration_date": "2024-02-01",
       "features": ["feature1", "feature2", "feature3"]
     }
   },
